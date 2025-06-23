@@ -1,0 +1,19 @@
+<section class="testimonials">
+  <h2>Depoimentos de Alunos</h2>
+  <div class="testimonial">
+    "Faturei R$12 mil no primeiro mês com as estratégias do curso. Incrível!" — <strong>Lucas R.</strong>
+  </div>
+  <div class="testimonial">
+    "Simples de entender e direto ao ponto. Melhor investimento que já fiz." — <strong>Carla M.</strong>
+  </div>
+</section>
+
+<section class="cta">
+  <h2>Garanta sua vaga com desconto agora:</h2>
+  <a class="cta-button" href="https://pay.kiwify.com.br/p0EUPMy?afid=BjDMi2Ya" target="_blank">Quero Começar Agora!</a>
+</section>
+
+<div class="footer">
+  <p>Este site é uma página informativa criada por um afiliado autorizado do curso Marca 7 Dígitos.</p>
+  <p><a href="/politica-de-privacidade.html">Política de Privacidade</a> | <a href="/termos-de-uso.html">Termos de Uso</a></p>
+</div>
